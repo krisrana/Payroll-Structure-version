@@ -1,0 +1,43 @@
+OUTPUT 1
+
+##Provide the Required information below##
+------------------------------------------
+ Enter the employee name: Krishna rana
+ Enter the Hours worked: 40
+ Enter the Hourly rate: 9.75
+
+
+****************************************
+Employee Name:         Krishna rana
+
+Hours Worked:                 40.00
+Hourly Rate:               $   9.75
+
+Total Wages:               $ 390.00
+****************************************
+
+--------------------------------
+Process exited after 6.422 seconds with return value 0
+Press any key to continue . . .
+
+OUTPUT 2
+
+##Provide the Required information below##
+------------------------------------------
+ Enter the employee name: Barry Allen
+ Enter the Hours worked: 43
+ Enter the Hourly rate: 14
+
+
+****************************************
+Employee Name:          Barry Allen
+
+Hours Worked:                 43.00
+Hourly Rate:               $  14.00
+
+Total Wages:               $ 602.00
+****************************************
+
+--------------------------------
+Process exited after 20.76 seconds with return value 0
+Press any key to continue . . .
